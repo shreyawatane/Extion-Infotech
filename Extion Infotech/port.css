@@ -359,51 +359,7 @@ footer {
     color: #fff;
     background-color: #2a2a2a;
 }
-/* Contact Form Styling */
-.contact-form {
-    width: 60%;
-    margin: 50px auto;
-    background: #fff;
-    padding: 20px;
-    border-radius: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
 
-.contact-form h2 {
-    font-size: 36px;
-    margin-bottom: 20px;
-    text-align: center;
-    color: #011627;
-}
-
-.contact-form form {
-    display: flex;
-    flex-direction: column;
-}
-
-.contact-form label {
-    font-size: 18px;
-    margin-bottom: 8px;
-}
-
-.contact-form input,
-.contact-form textarea {
-    padding: 10px;
-    margin-bottom: 16px;
-    box-sizing: border-box;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-}
-
-.contact-form textarea {
-    resize: vertical;
-}
-
-.contact-form input[type="submit"] {
-    background-color: #4caf50;
-    color: #fff;
-    cursor: pointer;
-}
 
 .contact-form input[type="submit"]:hover {
     background-color: #45a049;
